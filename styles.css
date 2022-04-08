@@ -126,12 +126,11 @@ code {
     min-width: 233px;
   }
 }
-
 .divider {
   height: 4px;
   width: 15%;
   background-color: yellow;
   margin-top: 5px;
-  margin-bottom: 2em;
-  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+  margin-left: 0;
 }
